@@ -10,6 +10,6 @@ Nós percebemos que o esquecimento de remédios prescritos e controlados, é mui
 Para demonstrar como seria o nosso sistema com o ESP32, fizemos uma simulação no site do Wokwi, onde ele recebe as informações do nosso código em python, para apitar o buzzer no momento esperado. Clique abaixo para acessar nossa simulação:
 https://wokwi.com/projects/382218186009653249
 # Vídeo Demonstrativo da Simulação juntamente com o Sistema em Python:
-Para saber mais, clique no Link abaixo:
+Para saber mais, clique no Link abaixo:<br/>
 https://youtu.be/wK8sz6pUbXw?si=YBa8yyesp1D04BkU 
 
