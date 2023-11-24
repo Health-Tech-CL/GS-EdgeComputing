@@ -1,6 +1,6 @@
 # Global Solution 2023 - Edge Computing
 ## Alunas:
-Camila Padalino - 98316
+Camila Padalino - 98316 <br/>
 Luana Cabezaolias - 99320
 # Problema de Saúde Abordado:
 Nós percebemos que o esquecimento de remédios prescritos e controlados, é muito comum, mas nem sempre ouvimos falar sobre o quão problemático isso é, e que prejuízos podem acarretar o paciente em um período de curto ou longo prazo. É uma preocupação significativa para os profissionais da saúde, visto que o esquecimento na administração de medicamentos podem comprometer na eficácia de remédios, caso tenham que tomar em alguma outra vez (principalmente antibióticos), resultar em uma complicação desnecessária de saúde no paciente, levando a custos ainda maiores para os cuidados médicos. É um obstáculo significativo para o alcance de resultados positivos nos tratamentos, por isso resolvemos dar uma importância maior para esse estigma.
